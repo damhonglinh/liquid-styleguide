@@ -78,7 +78,7 @@ page and that `.js` file contains all necessary Javascript codes for that page.
 ## Javascript
 
 * Let's apply the [styleguide from airbnb](https://github.com/airbnb/javascript). Following is the summary of the important ones:
-* 
+
   * Use single quotes `''` for strings.
   * End files with a single newline character.
   * Use indentation when making long method chains. Use a leading dot, which emphasizes that the line is a method call, not a new statement.
